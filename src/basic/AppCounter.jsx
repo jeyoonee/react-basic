@@ -1,5 +1,5 @@
 import "./App.css";
-import Counter from "./components/Counter";
+import Counter from "./basic/components/Counter";
 import { useState } from "react";
 
 function AppCounter() {
