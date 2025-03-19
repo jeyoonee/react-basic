@@ -1,10 +1,10 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import AppWrap from "./AppWrap";
+import AppCard from "./AppCard";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <AppWrap />
+    <AppCard />
   </StrictMode>
 );
