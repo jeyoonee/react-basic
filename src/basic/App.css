@@ -76,17 +76,12 @@
   font-size: 10rem;
 }
 
-.button {
+button {
   font-size: 2rem;
   padding: 0.2rem 1rem;
   border-radius: 0.5rem;
   cursor: pointer;
   background: pink;
-  background: linear-gradient(
-    90deg,
-    rgba(215, 127, 12, 1) 0%,
-    rgba(253, 220, 29, 1) 100%
-  );
 }
 
 .total {
